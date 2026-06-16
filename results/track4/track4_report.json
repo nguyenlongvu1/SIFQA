@@ -1,0 +1,84 @@
+{
+  "summary": [
+    {
+      "degradation": "blur",
+      "target_concepts": "ridge_valley_clarity",
+      "mean_target_rho": -0.42233427968264875,
+      "mean_target_range": 0.1315630218014121,
+      "mean_non_target_rho": 0.35271272328755904,
+      "q_rho_vs_level": -0.4652154161062649,
+      "q_drop_clean_to_max": 12.506155273877084,
+      "grounded": false
+    },
+    {
+      "degradation": "jpeg",
+      "target_concepts": "ridge_valley_clarity",
+      "mean_target_rho": -0.11219066894513888,
+      "mean_target_range": 0.03329659625887871,
+      "mean_non_target_rho": 0.03856938378653363,
+      "q_rho_vs_level": -0.11100871920909652,
+      "q_drop_clean_to_max": 2.6628766674548388,
+      "grounded": false
+    },
+    {
+      "degradation": "pressure_wet",
+      "target_concepts": "ridge_valley_clarity",
+      "mean_target_rho": -0.7744134670549409,
+      "mean_target_range": 0.4625625074841082,
+      "mean_non_target_rho": 0.6361911700109907,
+      "q_rho_vs_level": -0.34494021096659633,
+      "q_drop_clean_to_max": 6.053216755390167,
+      "grounded": true
+    },
+    {
+      "degradation": "noise",
+      "target_concepts": "noise_level",
+      "mean_target_rho": 0.43798329418784937,
+      "mean_target_range": 0.22918349271640182,
+      "mean_non_target_rho": 0.37334377128817103,
+      "q_rho_vs_level": -0.3055576457616656,
+      "q_drop_clean_to_max": 8.745348267257214,
+      "grounded": false
+    },
+    {
+      "degradation": "dry_skin",
+      "target_concepts": "contrast_uniformity",
+      "mean_target_rho": -0.2535991353652444,
+      "mean_target_range": 0.0963860391639173,
+      "mean_non_target_rho": 0.15526091732652172,
+      "q_rho_vs_level": 0.08916628808703408,
+      "q_drop_clean_to_max": -2.7216508984565735,
+      "grounded": false
+    },
+    {
+      "degradation": "occlusion",
+      "target_concepts": "usable_area",
+      "mean_target_rho": -0.8636270331314168,
+      "mean_target_range": 0.4684610713738948,
+      "mean_non_target_rho": 0.48551658477252807,
+      "q_rho_vs_level": 0.12632678778820525,
+      "q_drop_clean_to_max": -2.992645464837551,
+      "grounded": true
+    },
+    {
+      "degradation": "ridge_stretch",
+      "target_concepts": "ridge_frequency",
+      "mean_target_rho": 0.03512754615517833,
+      "mean_target_range": 0.01246570609509945,
+      "mean_non_target_rho": 0.0010684825613822765,
+      "q_rho_vs_level": -0.020660481386020092,
+      "q_drop_clean_to_max": 0.3907740581780672,
+      "grounded": false
+    },
+    {
+      "degradation": "orientation_break",
+      "target_concepts": "orientation_coherence",
+      "mean_target_rho": -0.7068532201427608,
+      "mean_target_range": 0.26014142017811537,
+      "mean_non_target_rho": 0.380578359407745,
+      "q_rho_vs_level": 0.07451011136010909,
+      "q_drop_clean_to_max": -0.7303959224373102,
+      "grounded": true
+    }
+  ]
+}
