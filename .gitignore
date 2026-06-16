@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Environments
+venv/
+.venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Datasets / large local artifacts (bring your own — see README)
+data/
+*.tif
+*.bmp
+
+# Scratch
+*.tmp
+_tmp*.py
